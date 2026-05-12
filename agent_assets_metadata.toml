@@ -1,0 +1,13 @@
+uploads = []
+
+[[generated]]
+id = "XXDYJgRFRqvRFmiBIzo3X"
+uri = "file://artifacts/langkahku/src/assets/bara-avatar.png"
+type = "image"
+title = "bara handsome suit avatar"
+
+[[outputs]]
+id = "1kTaoJTU4q86NSIQFUm6u"
+uri = "file://artifacts/aira-chat/public/icon-512.png"
+type = "image"
+title = "Ikon Aira — tulisan biru"
